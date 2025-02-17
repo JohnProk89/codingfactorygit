@@ -11,3 +11,5 @@ new button
 
 new comment in develop
 new line
+
+This is an test project where merging is tested
